@@ -1,0 +1,9 @@
+- 👋 oi, eu sou o Bruno ou @callmebysoares
+- 👀 tenho interesse na area de ADS e Engenharia da computação ...
+- 🌱 No momento estou cursando ADS ...
+- 💞️ sempre que surgir ideias interessantes irei compartilhar neste perfil ...
+
+<!---
+callmebysoares/callmebysoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
